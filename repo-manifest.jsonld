@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-recurrence/commit/14bb9b303a7435feb3ee1ef448409f94ebf64849",
       "git:hexsha": "14bb9b303a7435feb3ee1ef448409f94ebf64849",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-recurrence/commit/e1cb550bcee58a1607923d6739c09f1588a3e837",
